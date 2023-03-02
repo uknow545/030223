@@ -1,0 +1,89 @@
+
+CMS權限已開通
+登入網址: https://cms.cpdc.com.tw
+登入帳號: D0133@dydc.cpdc.com.tw
+登入密碼: 開機密碼
+建議瀏覽器: 支援WebRTC瀏覽器(如:Chrome、Edge、Safari)
+
+10.48.0.200
+user
+1qaz2WSX@1
+
+chenfenghuang@dydc.com.tw (webmail)
+Aa123456@
+~Jcfh34211234
+!Jcfh34211234 --12/19/22
+
+
+cisco meet
+chenfenghuang@dydc.com.tw (webmail)
+Aa123456@
+room is 1001
+
+
+EIP2
+D0133
+Aa123456@  (followed by AD account)
+Abcde12345@  (1/9/23)
+Abcd12345@  (1/9/23)
+
+
+outsystems
+chenfenghuang@dydc.com.tw
+12345678
+
+
+
+
+https://speedsvr.cpdc.com.tw/SPEED30/#
+Aa123456@
+
+
+
+G:\bde64
+account-icon (Computer\HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System) LUA 
+erp --12-7 ahm acm awm
+for all 3 accounts 
+pw: 3421
+
+
+erp(DB connection)
+192.168.11.48
+id: dydc_query
+pw: dydc_12345
+
+
+
+udn
+chenfenghuang@dydc.com.tw
+Jcfh12344321
+
+
+http://emsdemo.adtek.com.tw/home/overView
+id: test@adtek.com.tw
+pw: 123456
+
+
+https://www.dydc.com.tw/wp-admin/profile.php
+chenfenghuang@dydc.com.tw
+~us0909610618
+
+
+gmail
+chenfenghuang@dydc.com.tw
+corepacificjack@gmail.com
+
+pw: ~Jcfh34211234
+
+
+https://www.dydc.com.tw/?page_id=16972
+dydc888
+
+
+
+https://icoder.infolight.com/design
+09096106181119
+Abcd12345@
+63a1db48
+
+
